@@ -1,0 +1,6 @@
+{
+  "name": "ShiYu",
+  "description": "相遇 - 语言学习与文章阅读离线助手，集成 FSRS 间隔重复算法、生词/句法本与 AI 句子解析",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
